@@ -75,7 +75,7 @@ For item-level forecasts, cross-validation was implemented using MSE (Mean Squar
 
 The following financial identity was applied:
 
-$$\text{Final Cash Balance} = \text{Initial Cash Balance} + \text{Revenue} - \text{Expenses}
+$$\text{Final Cash Balance} = \text{Initial Cash Balance} + \text{Revenue} - \text{Expenses}$$
 
 
 This resulted in projected cash flow estimates for the 2025–2030 period.

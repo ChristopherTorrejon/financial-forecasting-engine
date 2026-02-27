@@ -135,7 +135,7 @@ An interactive corporate dashboard was developed to visualize:
 - Projected cash flow
 
 🔗 **Access the interactive dashboard:**  
-👉 **[View Interactive Financial Dashboard](https://app.powerbi.com/view?r=https://app.powerbi.com/view?r=eyJrIjoiZmQyZDQ4ODktNGU4Ni00OWJlLWE5M2EtNGM0NTFjNzlkOTI4IiwidCI6IjZmZDQ4ZjQxLWFmODEtNDVhNS05YzFlLWUzOTkwYmMyN2U3YyIsImMiOjR9)**
+👉 **[View Interactive Financial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmQyZDQ4ODktNGU4Ni00OWJlLWE5M2EtNGM0NTFjNzlkOTI4IiwidCI6IjZmZDQ4ZjQxLWFmODEtNDVhNS05YzFlLWUzOTkwYmMyN2U3YyIsImMiOjR9)**
 
 ---
 

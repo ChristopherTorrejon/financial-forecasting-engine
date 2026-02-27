@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Interactive-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 📊 Financial Forecasting Engine  
 ### Corporate Financial Projection & Planning System
 
